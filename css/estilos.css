@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.flipbook{
+    background-color: lightblue;
+    height: 300px;
+}
+.video{
+    background-color: blue;
+    height: 300px;
+}
